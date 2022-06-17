@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables.csproj", "{13482224-1826-4C48-BFAD-508BB1EF7D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{93AA5F59-4958-4781-B638-8C4833D95ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{8C74DD7D-91BD-4725-8AE9-823ADF72543B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13482224-1826-4C48-BFAD-508BB1EF7D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13482224-1826-4C48-BFAD-508BB1EF7D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13482224-1826-4C48-BFAD-508BB1EF7D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13482224-1826-4C48-BFAD-508BB1EF7D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AA5F59-4958-4781-B638-8C4833D95ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AA5F59-4958-4781-B638-8C4833D95ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AA5F59-4958-4781-B638-8C4833D95ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AA5F59-4958-4781-B638-8C4833D95ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C74DD7D-91BD-4725-8AE9-823ADF72543B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C74DD7D-91BD-4725-8AE9-823ADF72543B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C74DD7D-91BD-4725-8AE9-823ADF72543B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C74DD7D-91BD-4725-8AE9-823ADF72543B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCBDCCE8-B92A-4ACE-8ABC-8D1B9141D317}
+	EndGlobalSection
+EndGlobal

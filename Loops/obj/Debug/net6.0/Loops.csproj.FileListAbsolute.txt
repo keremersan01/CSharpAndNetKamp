@@ -1,0 +1,15 @@
+C:\repos\CSharpAndNetKamp\Loops\bin\Debug\net6.0\Loops.exe
+C:\repos\CSharpAndNetKamp\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\repos\CSharpAndNetKamp\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\repos\CSharpAndNetKamp\Loops\bin\Debug\net6.0\Loops.dll
+C:\repos\CSharpAndNetKamp\Loops\bin\Debug\net6.0\Loops.pdb
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.dll
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.pdb
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\repos\CSharpAndNetKamp\Loops\obj\Debug\net6.0\ref\Loops.dll
