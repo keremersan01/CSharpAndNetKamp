@@ -1,0 +1,15 @@
+C:\repos\CSharpAndNetKamp\Methods\bin\Debug\net6.0\Methods.exe
+C:\repos\CSharpAndNetKamp\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\repos\CSharpAndNetKamp\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\repos\CSharpAndNetKamp\Methods\bin\Debug\net6.0\Methods.dll
+C:\repos\CSharpAndNetKamp\Methods\bin\Debug\net6.0\Methods.pdb
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.dll
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.pdb
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\repos\CSharpAndNetKamp\Methods\obj\Debug\net6.0\ref\Methods.dll
