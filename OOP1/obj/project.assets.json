@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharpAndNetKamp\\Methods\\Methods.csproj",
-      "projectName": "Methods",
-      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharpAndNetKamp\\Methods\\Methods.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\CSharpAndNetKamp\\OOP1\\OOP1.csproj",
+      "projectName": "OOP1",
+      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharpAndNetKamp\\OOP1\\OOP1.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharpAndNetKamp\\Methods\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\CSharpAndNetKamp\\OOP1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

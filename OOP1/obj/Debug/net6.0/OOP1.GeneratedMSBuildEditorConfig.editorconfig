@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ValueAndReferenceTypes
-build_property.ProjectDir = C:\Users\admin\Documents\GitHub\CSharpAndNetKamp\ValueAndReferenceTypes\
+build_property.RootNamespace = OOP1
+build_property.ProjectDir = C:\Users\admin\Documents\GitHub\CSharpAndNetKamp\OOP1\
