@@ -25,6 +25,12 @@
             // Reference type - "Kamera" is printed
             productManager.Add(product);
             Console.WriteLine(product.ProductName);
+
+            // return 
+            int result = productManager.Sum2(3, 6);
+            Console.WriteLine("Result is: " + result * 2);
+            // void 
+            productManager.Sum(3, 6);
             
 
 
