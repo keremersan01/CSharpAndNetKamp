@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyGame
+namespace MyGame.Services
 {
     internal interface ICampaignService
     {
-        void Add();
-        void Update();
-        void Remove();
+        void Add(Campaign campaign);
+        void Update(Campaign campaign);
+        void Remove(Campaign campaign);
     }
 }
